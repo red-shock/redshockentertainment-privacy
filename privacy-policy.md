@@ -44,3 +44,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: redshockenetertainment@gmail.com 
+
+![Logo of Red Shock Entertainment](https://i.ibb.co/MRwpT5P/rdshckmockup150.png)
