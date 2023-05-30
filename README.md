@@ -1,6 +1,8 @@
 # redshockentertainment-privacy
 Privacy policy for Red Shock Entertainment.
 
-Find it [here](https://github.com/red-shock/redshockentertainment-privacy/blob/main/privacy-policy.md)
+Find it [here](https://github.com/red-shock/redshockentertainment-privacy/blob/main/privacy-policy.md).
 
-![Logo of Red Shock Entertainment](https://i.ibb.co/MRwpT5P/rdshckmockup150.png)
+<picture>
+  <img alt="Red Shock Entertainment Logo" src="https://raw.githubusercontent.com/red-shock/redshockentertainment-privacy/main/rdshckmockup.png" width="150"/>
+</picture>
